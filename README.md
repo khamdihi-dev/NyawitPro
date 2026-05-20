@@ -1,10 +1,17 @@
+
 # Nyawit Pro
 
-Facebook Automation Toolkit Complete Edition
+<p align="center">
+  <img src="https://github.com/khamdihi-dev/NyawitPro/blob/main/img/sawit-pro.png" width="100%" alt="Nyawit Pro Banner">
+</p>
 
-![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Chrome%20Extension-blue.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/version-2.0.0-blue.svg">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+  <img src="https://img.shields.io/badge/platform-Chrome%20Extension-blue.svg">
+</p>
+
+## Tentang
 
 Nyawit Pro adalah tools otomatisasi Facebook lengkap dengan tampilan modern dan fitur terintegrasi dalam satu dashboard.
 
@@ -31,6 +38,8 @@ Nyawit Pro adalah tools otomatisasi Facebook lengkap dengan tampilan modern dan 
 - Dump Suggest
 - Dump Publik
 
+---
+
 ## Keterangan Fitur
 
 | Fitur | Deskripsi |
@@ -49,16 +58,23 @@ Nyawit Pro adalah tools otomatisasi Facebook lengkap dengan tampilan modern dan 
 | Dump Suggest | Ambil ID friend suggestion |
 | Dump Publik | Ambil daftar teman dari profil publik |
 
+---
+
 ## Tampilan
 - Modern UI
 - Warna biru elegan
 - Responsive dashboard
 - Mudah digunakan
 
+---
+
 ## Informasi Pembelian
 
 Jika berminat membeli Nyawit Pro, silakan hubungi WhatsApp yang ada di deskripsi atau bio.
 
+---
+
 ## Disclaimer
 
 Tools ini dibuat untuk edukasi dan penggunaan pribadi. Gunakan dengan bijak dan tanggung jawab masing-masing.
+
